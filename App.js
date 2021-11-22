@@ -11,7 +11,7 @@ function App() {
         email="mr.whiskaz@catnap.meow"
       />
       <Contact
-        img="./images/fluffykins.png"
+        img="https://images.unsplash.com/photo-1581403341630-a6e0b9d2d257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGVvcGxlJTIwcHJvZmlsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
         name="Fluffykins"
         phone="(212) 555-2345"
         email="fluff@me.com"
