@@ -17,7 +17,7 @@ function App() {
         email="fluff@me.com"
       />
       <Contact
-        img="./images/felix.png"
+        img="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBlb3BsZSUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         name="Felix"
         phone="(212) 555-4567"
         email="thecat@hotmail.com"
