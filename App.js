@@ -23,7 +23,7 @@ function App() {
         email="thecat@hotmail.com"
       />
       <Contact
-        img="./images/pumpkin.png"
+        img="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBlb3BsZSUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
         name="Pumpkin"
         phone="(0800) CAT KING"
         email="pumpkin@scrimba.com"
